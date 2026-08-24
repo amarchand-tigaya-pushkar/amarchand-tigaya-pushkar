@@ -14,31 +14,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class Amar:
+I'm **Amar**, a **Data Science & AI enthusiast** passionate about turning data into meaningful insights and building intelligent solutions. 🚀
 
-    role = "Data Science & AI Enthusiast"
+### 🧠 Areas of Interest
 
-    interests = [
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Generative AI"
-    ]
+* 📊 **Data Science & Data Analysis**
+* 🤖 **Machine Learning**
+* 🧠 **Deep Learning**
+* 👁️ **Computer Vision**
+* ✨ **Generative AI**
 
-    currently_learning = [
-        "Python",
-        "Pandas",
-        "NumPy",
-        "Scikit-learn",
-        "Machine Learning",
-        "Deep Learning"
-    ]
+### 📚 Currently Learning
 
-    mindset = "Learn → Build → Improve → Repeat 🚀"
+* 🐍 Python
+* 🐼 Pandas & NumPy
+* 📈 Data Visualization & Statistics
+* 🤖 Scikit-learn & Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+
+### ⚡ My Mindset
+
+> **Learn → Build → Improve → Repeat → 🚀**
+
+I'm focused on continuously learning, experimenting with new technologies, and turning what I learn into practical projects.
+
 ```
 
 ---
