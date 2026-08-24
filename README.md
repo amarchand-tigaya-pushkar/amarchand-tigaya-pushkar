@@ -89,17 +89,8 @@ Computer Vision / AI project focused on recognizing human actions from visual da
 
 ---
 
-## 🧍 02 — Human Action Recognition 9
 
-Advanced Human Action Recognition project for identifying different human activities.
-
-**Focus:** AI • Computer Vision • Action Classification
-
-🔗 [View Project](https://github.com/atppushkar/Human-Action-Recognition-9)
-
----
-
-## 🌦️ 03 — Weather Prediction
+## 🌦️ 02 — Weather Prediction
 
 Machine Learning project for predicting weather-related outcomes using historical data.
 
@@ -109,7 +100,7 @@ Machine Learning project for predicting weather-related outcomes using historica
 
 ---
 
-## 🤖 04 — AI Coding Assistant Bot
+## 🤖 03 — AI Coding Assistant Bot
 
 AI-powered coding assistant designed to help users with programming-related tasks.
 
@@ -119,7 +110,7 @@ AI-powered coding assistant designed to help users with programming-related task
 
 ---
 
-## 💬 05 — Customer Support Chatbot
+## 💬 04 — Customer Support Chatbot
 
 AI chatbot project designed to provide automated customer support and conversational assistance.
 
@@ -129,7 +120,7 @@ AI chatbot project designed to provide automated customer support and conversati
 
 ---
 
-## 🪖 06 — Helmet Detection
+## 🪖 05 — Helmet Detection
 
 Computer Vision project focused on detecting helmet usage.
 
@@ -139,7 +130,7 @@ Computer Vision project focused on detecting helmet usage.
 
 ---
 
-## 💳 07 — Credit Card Fraud Detection
+## 💳 06 — Credit Card Fraud Detection
 
 Machine Learning project focused on detecting potentially fraudulent transactions.
 
@@ -149,7 +140,7 @@ Machine Learning project focused on detecting potentially fraudulent transaction
 
 ---
 
-## 😊 08 — Sentiment Analysis
+## 😊 07 — Sentiment Analysis
 
 NLP project that analyzes text and identifies sentiment such as positive, negative or neutral.
 
@@ -159,7 +150,7 @@ NLP project that analyzes text and identifies sentiment such as positive, negati
 
 ---
 
-## 🎵 09 — Music Recommendation System
+## 🎵 08 — Music Recommendation System
 
 Recommendation system designed to suggest music based on data and user preferences.
 
