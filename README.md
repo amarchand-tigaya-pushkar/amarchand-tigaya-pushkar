@@ -85,7 +85,7 @@ Computer Vision / AI project focused on recognizing human actions from visual da
 
 **Focus:** Computer Vision • Deep Learning • Human Activity Recognition
 
-🔗 [View Project](https://github.com/atppushkar/Human-Action-Recognition.git)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git)
 
 ---
 
@@ -96,7 +96,7 @@ Machine Learning project for predicting weather-related outcomes using historica
 
 **Focus:** Python • Pandas • Machine Learning • Data Analysis
 
-🔗 [View Project](https://github.com/atppushkar/weather_prediction_project)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/weather_prediction_project)
 
 ---
 
@@ -106,7 +106,7 @@ AI-powered coding assistant designed to help users with programming-related task
 
 **Focus:** Python • AI • Automation • Coding Assistant
 
-🔗 [View Project](https://github.com/atppushkar/project-20-ai-coding-assistant-bot-project)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/project-20-ai-coding-assistant-bot-project)
 
 ---
 
@@ -126,7 +126,7 @@ Computer Vision project focused on detecting helmet usage.
 
 **Focus:** Computer Vision • Object Detection • AI
 
-🔗 [View Project](https://github.com/atppushkar/helmet_dataset)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/helmet_dataset)
 
 ---
 
@@ -146,7 +146,7 @@ NLP project that analyzes text and identifies sentiment such as positive, negati
 
 **Focus:** NLP • Natural Language Processing • Machine Learning
 
-🔗 [View Project](https://github.com/atppushkar/sentiment_analysis_project)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project)
 
 ---
 
@@ -156,7 +156,7 @@ Recommendation system designed to suggest music based on data and user preferenc
 
 **Focus:** Recommendation Systems • Python • Machine Learning
 
-🔗 [View Project](https://github.com/atppushkar/music_recommendation_project)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/music_recommendation_project)
 
 ---
 
@@ -166,7 +166,7 @@ Machine Learning classification project that predicts loan approval based on app
 
 **Focus:** Classification • Machine Learning • Data Analysis
 
-🔗 [View Project](https://github.com/atppushkar/loan_approval_project)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/loan_approval_project)
 
 ---
 
@@ -176,7 +176,7 @@ Machine Learning regression project designed to predict vehicle prices from rele
 
 **Focus:** Regression • Machine Learning • Python • Data Science
 
-🔗 [View Project](https://github.com/atppushkar/car_price_project)
+🔗 [View Project](https://github.com/amarchand-tigaya-pushkar/car_price_project)
 
 ---
 
@@ -214,7 +214,7 @@ Machine Learning regression project designed to predict vehicle prices from rele
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=atppushkar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=amarchand-tigaya-pushkar&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -224,7 +224,7 @@ Machine Learning regression project designed to predict vehicle prices from rele
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/atppushkar/atppushkar/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/amarchand-tigaya-pushkar/amarchand-tigaya-pushkar/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -267,8 +267,8 @@ STATUS: READY TO BUILD 🚀
 
 <div align="center">
 
-<a href="https://github.com/atppushkar">
-<img src="https://img.shields.io/badge/GitHub-atppushkar-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/amarchand-tigaya-pushkar">
+<img src="https://img.shields.io/badge/GitHub-amarchand-tigaya-pushkar-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
