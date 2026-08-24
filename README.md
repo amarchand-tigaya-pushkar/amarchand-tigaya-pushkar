@@ -85,7 +85,7 @@ Computer Vision / AI project focused on recognizing human actions from visual da
 
 **Focus:** Computer Vision • Deep Learning • Human Activity Recognition
 
-🔗 [View Project]((https://github.com/atppushkar/Human-Action-Recognition.git))
+🔗 [View Project](https://github.com/atppushkar/Human-Action-Recognition.git)
 
 ---
 
