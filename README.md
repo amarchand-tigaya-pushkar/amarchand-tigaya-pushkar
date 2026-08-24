@@ -2,209 +2,286 @@
 
 # 👋 Hi, I'm AMAR
 
-### 🧠 Data Science • 🤖 AI • 📊 Machine Learning • 💻 Python
+### 🧠 Data Science • Machine Learning • Artificial Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Machine+Learning+Learner;AI+%26+Computer+Vision;Python+Developer;Building+My+AI+Journey+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Developer;AI+%26+Computer+Vision;Python+Developer;Building+Real-World+AI+Projects" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=atppushkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/atppushkar">
+<img src="https://komarev.com/ghpvc/?username=atppushkar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm **Amar**, a **Data Science & AI enthusiast** passionate about turning data into meaningful insights and building intelligent solutions. 🚀
+```python
+class Amar:
 
-### 🧠 Areas of Interest
+    role = "Data Science & AI Enthusiast"
 
-* 📊 **Data Science & Data Analysis**
-* 🤖 **Machine Learning**
-* 🧠 **Deep Learning**
-* 👁️ **Computer Vision**
-* ✨ **Generative AI**
+    interests = [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Generative AI",
+        "Automation"
+    ]
 
-### 📚 Currently Learning
+    primary_language = "Python"
 
-* 🐍 Python
-* 🐼 Pandas & NumPy
-* 📈 Data Visualization & Statistics
-* 🤖 Scikit-learn & Machine Learning
-* 🧠 Deep Learning
-* ✨ Generative AI
-
-### ⚡ My Mindset
-
-> **Learn → Build → Improve → Repeat → 🚀**
-
-I'm focused on continuously learning, experimenting with new technologies, and turning what I learn into practical projects.
-
+    mindset = "Learn → Build → Deploy → Improve"
 ```
+
+I'm passionate about using **data, machine learning and AI** to build practical solutions for real-world problems.
+
+🚀 Currently focused on:
+
+* 📊 Data Science
+* 🤖 Machine Learning
+* 🧠 Artificial Intelligence
+* 👁️ Computer Vision
+* 💬 AI Chatbots
+* 🎯 Recommendation Systems
+* ⚡ AI-powered applications
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🐍 Programming & Data
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / Machine Learning
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
 </p>
 
-### 💻 Development Tools
+### 🌐 Development
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi" />
 </p>
+
+### 📊 Data Visualization
+
+`Matplotlib` • `Seaborn` • `Plotly` • `Streamlit`
 
 ---
 
-## 📊 My Data Science Journey
+# 🚀 Featured Projects
+
+## 🧍 01 — Human Action Recognition
+
+Computer Vision / AI project focused on recognizing human actions from visual data.
+
+**Focus:** Computer Vision • Deep Learning • Human Activity Recognition
+
+🔗 [View Project]((https://github.com/atppushkar/Human-Action-Recognition.git))
+
+---
+
+## 🧍 02 — Human Action Recognition 9
+
+Advanced Human Action Recognition project for identifying different human activities.
+
+**Focus:** AI • Computer Vision • Action Classification
+
+🔗 [View Project](https://github.com/atppushkar/Human-Action-Recognition-9)
+
+---
+
+## 🌦️ 03 — Weather Prediction
+
+Machine Learning project for predicting weather-related outcomes using historical data.
+
+**Focus:** Python • Pandas • Machine Learning • Data Analysis
+
+🔗 [View Project](https://github.com/atppushkar/weather_prediction_project)
+
+---
+
+## 🤖 04 — AI Coding Assistant Bot
+
+AI-powered coding assistant designed to help users with programming-related tasks.
+
+**Focus:** Python • AI • Automation • Coding Assistant
+
+🔗 [View Project](https://github.com/atppushkar/project-20-ai-coding-assistant-bot-project)
+
+---
+
+## 💬 05 — Customer Support Chatbot
+
+AI chatbot project designed to provide automated customer support and conversational assistance.
+
+**Focus:** AI • NLP • Chatbot • Automation
+
+🔗 [View Project](https://github.com/atppushkar/project-18-customer-support-chatbot-project)
+
+---
+
+## 🪖 06 — Helmet Detection
+
+Computer Vision project focused on detecting helmet usage.
+
+**Focus:** Computer Vision • Object Detection • AI
+
+🔗 [View Project](https://github.com/atppushkar/helmet_dataset)
+
+---
+
+## 💳 07 — Credit Card Fraud Detection
+
+Machine Learning project focused on detecting potentially fraudulent transactions.
+
+**Focus:** Machine Learning • Classification • Fraud Detection
+
+🔗 [View Project](https://github.com/atppushkar/credit_card_fraud_project)
+
+---
+
+## 😊 08 — Sentiment Analysis
+
+NLP project that analyzes text and identifies sentiment such as positive, negative or neutral.
+
+**Focus:** NLP • Natural Language Processing • Machine Learning
+
+🔗 [View Project](https://github.com/atppushkar/sentiment_analysis_project)
+
+---
+
+## 🎵 09 — Music Recommendation System
+
+Recommendation system designed to suggest music based on data and user preferences.
+
+**Focus:** Recommendation Systems • Python • Machine Learning
+
+🔗 [View Project](https://github.com/atppushkar/music_recommendation_project)
+
+---
+
+## 🏦 10 — Loan Approval Prediction
+
+Machine Learning classification project that predicts loan approval based on applicant information.
+
+**Focus:** Classification • Machine Learning • Data Analysis
+
+🔗 [View Project](https://github.com/atppushkar/loan_approval_project)
+
+---
+
+## 🚗 11 — Car Price Prediction
+
+Machine Learning regression project designed to predict vehicle prices from relevant features.
+
+**Focus:** Regression • Machine Learning • Python • Data Science
+
+🔗 [View Project](https://github.com/atppushkar/car_price_project)
+
+---
+
+# 🧠 What I Work With
 
 ```text
-Python
-  ↓
-NumPy + Pandas
-  ↓
-Data Cleaning & EDA
-  ↓
-Data Visualization
-  ↓
-Statistics
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Computer Vision
-  ↓
-Generative AI
-  ↓
-Real-World AI Projects 🚀
+                    DATA SCIENCE
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       DATA           MACHINE          AI
+      ANALYSIS        LEARNING
+          │              │              │
+      Pandas         Regression       NLP
+      NumPy          Classification   Chatbots
+      Matplotlib     Prediction       Computer Vision
+      Seaborn        Recommendation   Automation
 ```
 
 ---
 
-## 🚀 Featured Projects
-
-> 🔨 **Projects coming soon...**
-
-I'm currently building my Data Science & AI portfolio.
-
-### Upcoming Projects
-
-| Project                     | Technology                      | Status         |
-| --------------------------- | ------------------------------- | -------------- |
-| 📊 Data Analysis Project    | Python • Pandas • Visualization | 🔨 Building    |
-| 🤖 Machine Learning Project | Python • Scikit-learn           | 🔜 Coming Soon |
-| 🧠 Deep Learning Project    | TensorFlow / PyTorch            | 🔜 Coming Soon |
-| 👁️ Computer Vision Project | Python • OpenCV                 | 🔜 Coming Soon |
-| 🚀 AI Application           | Python • AI • API               | 🔜 Coming Soon |
-
----
-
-## 📊 GitHub Journey
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 🚀 Building My Data Science & AI Portfolio
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=atppushkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-📚 Learning  
-&nbsp;&nbsp;↓  
-🐍 Python  
-&nbsp;&nbsp;↓  
-📊 Data Science  
-&nbsp;&nbsp;↓  
-🤖 Machine Learning  
-&nbsp;&nbsp;↓  
-🧠 Deep Learning  
-&nbsp;&nbsp;↓  
-✨ Generative AI  
-&nbsp;&nbsp;↓  
-🚀 Real-World Projects
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atppushkar&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
----
-
-## 🧠 Currently Learning
-
-* 🐍 Advanced Python
-* 📊 Data Analysis
-* 📈 Statistics for Data Science
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* ✨ Generative AI
-* 🗄️ SQL & Databases
-* 🚀 AI Application Development
 
 ---
 
-## 🎯 2026 Goals
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=atppushkar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/atppushkar/atppushkar/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-[ ] Build my first Data Science project
-[ ] Build my first Machine Learning project
-[ ] Learn Deep Learning
-[ ] Build a Computer Vision project
-[ ] Explore Generative AI
-[ ] Deploy an AI application
-[ ] Build a strong GitHub portfolio
-[ ] Contribute to Open Source
+☑ Build real-world Machine Learning projects
+☑ Improve Data Science skills
+☑ Explore Generative AI
+☑ Build AI-powered applications
+☑ Learn Deep Learning
+☑ Explore Computer Vision
+☑ Learn MLOps & Deployment
+☑ Build a professional AI portfolio
 ```
 
 ---
 
-## 💻 Developer Mode
+# 💻 Developer Mindset
 
 ```bash
-$ whoami
+$ python learn.py
 
-amar
+Loading knowledge...
+████████████████████████████ 100%
 
-$ current_focus
+Learning Data Science...
+Learning Machine Learning...
+Building AI Projects...
+Improving Every Day...
 
-Data Science + AI
-
-$ favorite_language
-
-Python 🐍
-
-$ status
-
-Learning & Building 🚀
-
-$ next_target
-
-Real-world AI Projects
+STATUS: READY TO BUILD 🚀
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/atppushkar">
-<img src="https://img.shields.io/badge/GitHub-atppushkar-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-atppushkar-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/amarchand-tigaya-pushkar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -213,10 +290,10 @@ Real-world AI Projects
 
 <div align="center">
 
-### ⚡ Learn. Build. Experiment. Repeat.
+### ⭐ If you find my projects interesting, consider giving them a star!
 
-**Data → Intelligence → Impact 🚀**
+### 🚀 Learn • Build • Deploy • Repeat
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile! ❤️**
 
 </div>
