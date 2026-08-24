@@ -1,82 +1,129 @@
+<div align="center">
+
 # 👋 Hi, I'm AMAR
 
-### 🚀 Data Science | Machine Learning | AI
+### 🧠 Data Science • 🤖 AI • 📊 Machine Learning • 💻 Python
 
-> Turning **data into insights**, **models into solutions**, and **ideas into real-world AI projects**. 🧠💻
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Machine+Learning+Learner;AI+%26+Computer+Vision;Python+Developer;Building+My+AI+Journey+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=atppushkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Beginner Data Science & AI enthusiast
-* 📊 Interested in Data Science, Machine Learning & AI
-* 🤖 Building practical ML & Computer Vision projects
-* 🚀 Learning MLOps, APIs & Deployment
-* 🐍 Python is my primary language
-* 🔥 Always learning. Always building.
+```python
+class Amar:
+
+    role = "Data Science & AI Enthusiast"
+
+    interests = [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Generative AI"
+    ]
+
+    currently_learning = [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Machine Learning",
+        "Deep Learning"
+    ]
+
+    mindset = "Learn → Build → Improve → Repeat 🚀"
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Data Science
+### 🐍 Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql" />
+
+</p>
 
 ### 🤖 AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+<p align="left">
 
-### 🚀 Development & Deployment
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+</p>
 
----
+### 💻 Development Tools
 
-## 📊 Featured Projects
+<p align="left">
 
-### 🎓 Student Performance Predictor
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 
-Machine Learning project that predicts student performance using regression techniques.
-
-**Tech:** Python • Pandas • Scikit-learn • Streamlit
-
-### 💰 Loan Approval Prediction
-
-Machine Learning classification project for predicting loan approval.
-
-**Tech:** Python • Pandas • Scikit-learn • Decision Tree
-
-### 🪖 Helmet Detection
-
-Computer Vision project for detecting helmet usage using YOLO.
-
-**Tech:** Python • OpenCV • YOLO • Computer Vision
-
-### 🎵 Music Recommendation System
-
-A recommendation system that suggests music based on user preferences.
-
-**Tech:** Python • Pandas • Machine Learning • Streamlit
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 My Data Science Journey
+
+```text
+Python
+  ↓
+NumPy + Pandas
+  ↓
+Data Cleaning & EDA
+  ↓
+Data Visualization
+  ↓
+Statistics
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+Computer Vision
+  ↓
+Generative AI
+  ↓
+Real-World AI Projects 🚀
+```
+
+---
+
+## 🚀 Featured Projects
+
+> 🔨 **Projects coming soon...**
+
+I'm currently building my Data Science & AI portfolio.
+
+### Upcoming Projects
+
+| Project                     | Technology                      | Status         |
+| --------------------------- | ------------------------------- | -------------- |
+| 📊 Data Analysis Project    | Python • Pandas • Visualization | 🔨 Building    |
+| 🤖 Machine Learning Project | Python • Scikit-learn           | 🔜 Coming Soon |
+| 🧠 Deep Learning Project    | TensorFlow / PyTorch            | 🔜 Coming Soon |
+| 👁️ Computer Vision Project | Python • OpenCV                 | 🔜 Coming Soon |
+| 🚀 AI Application           | Python • AI • API               | 🔜 Coming Soon |
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atppushkar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=atppushkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atppushkar&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=atppushkar&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -84,57 +131,81 @@ A recommendation system that suggests music based on user preferences.
 
 ## 🧠 Currently Learning
 
-```text
-Data Science
-Machine Learning
-Deep Learning
-Computer Vision
-Generative AI
-LLMs
-FastAPI
-Docker
-MLOps
-Cloud Deployment
-```
+* 🐍 Advanced Python
+* 📊 Data Analysis
+* 📈 Statistics for Data Science
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* ✨ Generative AI
+* 🗄️ SQL & Databases
+* 🚀 AI Application Development
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build production-ready AI applications
-* 📊 Master Data Science & Machine Learning
-* 🤖 Explore Generative AI & LLMs
-* ☁️ Learn scalable deployment & MLOps
-* 💼 Build a strong AI/Data Science portfolio
+```text
+[ ] Build my first Data Science project
+[ ] Build my first Machine Learning project
+[ ] Learn Deep Learning
+[ ] Build a Computer Vision project
+[ ] Explore Generative AI
+[ ] Deploy an AI application
+[ ] Build a strong GitHub portfolio
+[ ] Contribute to Open Source
+```
+
+---
+
+## 💻 Developer Mode
+
+```bash
+$ whoami
+
+amar
+
+$ current_focus
+
+Data Science + AI
+
+$ favorite_language
+
+Python 🐍
+
+$ status
+
+Learning & Building 🚀
+
+$ next_target
+
+Real-world AI Projects
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/atppushkar">
 <img src="https://img.shields.io/badge/GitHub-atppushkar-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amarchand-tigaya-pushkar/">
+<a href="www.linkedin.com/in/amarchand-tigaya-pushkar">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> **Data tells the story. AI helps us understand it. 🚀**
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⚡ Learn. Build. Experiment. Repeat.
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+**Data → Intelligence → Impact 🚀**
+
+⭐ Thanks for visiting my profile!
 
 </div>
