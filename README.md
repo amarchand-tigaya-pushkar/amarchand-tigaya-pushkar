@@ -115,18 +115,27 @@ I'm currently building my Data Science & AI portfolio.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atppushkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 🚀 Building My Data Science & AI Portfolio
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=atppushkar&theme=tokyonight&hide_border=true" />
+📚 Learning  
+&nbsp;&nbsp;↓  
+🐍 Python  
+&nbsp;&nbsp;↓  
+📊 Data Science  
+&nbsp;&nbsp;↓  
+🤖 Machine Learning  
+&nbsp;&nbsp;↓  
+🧠 Deep Learning  
+&nbsp;&nbsp;↓  
+✨ Generative AI  
+&nbsp;&nbsp;↓  
+🚀 Real-World Projects
 
 </div>
-
 ---
 
 ## 🧠 Currently Learning
