@@ -430,7 +430,7 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 
 ---
 
-## 💬 18 — Customer Support Chatbot
+## 🚧 18 — Customer Support Chatbot
 
 > Conversational AI project designed for automated customer support.
 
@@ -584,7 +584,7 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 | 10 | Coming Soon | 🚧 Coming Soon |
 | 11 | Music Genre Classification using Machine Learning |🚧 Coming Soon  |
 | 12 | Webcam App using Python | 🚧 Coming Soon |
-| 13 | Helmet Detection System | 🚧 Coming Soon |
+| 13 | Helmet Detection System | ✅ Available |
 | 14 | Coming Soon | 🚧 Coming Soon |
 | 15 | Coming Soon | 🚧 Coming Soon |
 | 16 | Coming Soon | 🚧 Coming Soon |
