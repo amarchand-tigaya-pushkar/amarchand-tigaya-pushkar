@@ -22,33 +22,112 @@
 
 ---
 
-# 🧠 WHO AM I?
+## 🧠 WHO AM I?
 
-```python
-class AmarChandTigayaPushkar:
+<div align="center">
 
-    name = "Amar Chand Tigaya Pushkar"
-    role = "Data Science & AI Enthusiast"
+### 👨‍💻 Amar Chand Tigaya Pushkar
 
-    fields = [
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Generative AI"
-    ]
+**📊 Data Science Enthusiast • 🤖 Machine Learning • 🧠 Artificial Intelligence**
 
-    primary_language = "Python"
+<br>
 
-    philosophy = "Learn → Build → Deploy → Improve"
-```
+<table>
+<tr>
+<td align="center" width="180">
+
+### 📊
+
+**Data Science**
+
+Data Analysis<br>
+Visualization<br>
+Statistics
+
+</td>
+
+<td align="center" width="180">
+
+### 🤖
+
+**Machine Learning**
+
+Prediction<br>
+Classification<br>
+Regression
+
+</td>
+
+<td align="center" width="180">
+
+### 👁️
+
+**Computer Vision**
+
+Object Detection<br>
+Action Recognition<br>
+Image Analysis
+
+</td>
+
+<td align="center" width="180">
+
+### 💬
+
+**AI & NLP**
+
+Chatbots<br>
+Sentiment Analysis<br>
+Generative AI
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🐍 Primary Language
+
+<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
 
 > 🚀 **Turning data into insights, models into solutions, and ideas into real-world AI applications.**
 
-I enjoy exploring the intersection of **Data Science, Machine Learning, Artificial Intelligence and software development** to create practical projects and continuously improve my technical skills.
+<br>
+
+**My Philosophy**
+
+### `LEARN` 📚 → `BUILD` 💻 → `ANALYZE` 📊 → `DEPLOY` 🚀 → `IMPROVE` 🔥
+
+</div>
 
 ---
+
+### 💡 What I'm Exploring
+
+```text
+📊 Data Science
+   ├── Data Analysis
+   ├── Data Visualization
+   └── Predictive Analytics
+
+🤖 Machine Learning
+   ├── Regression
+   ├── Classification
+   └── Recommendation Systems
+
+🧠 Artificial Intelligence
+   ├── Generative AI
+   ├── NLP
+   └── AI Applications
+
+👁️ Computer Vision
+   ├── Object Detection
+   ├── Human Action Recognition
+   └── Image Analysis
+```
+
 
 # 📊 MY DATA SCIENCE JOURNEY
 
