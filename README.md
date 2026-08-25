@@ -248,8 +248,7 @@ I --> J[🔥 Continuous Learning]
 `Regression` • `Machine Learning` • `Python` • `Data Science`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/car_price_project
-
+https://github.com/amarchand-tigaya-pushkar/car_price_project.git
 ---
 
 ## 🏦 02 — Loan Approval Prediction
@@ -261,8 +260,7 @@ https://github.com/amarchand-tigaya-pushkar/car_price_project
 `Classification` • `Machine Learning` • `Data Analysis`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/loan_approval_project
-
+https://github.com/amarchand-tigaya-pushkar/loan_approval_project.git
 ---
 
 ## 😊 03 — Sentiment Analysis
@@ -274,8 +272,7 @@ https://github.com/amarchand-tigaya-pushkar/loan_approval_project
 `NLP` • `Natural Language Processing` • `Machine Learning` • `Naive Bayes`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project
-
+https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project.git
 ---
 
 ## 🌦️ 04 — Weather Prediction
@@ -287,8 +284,7 @@ https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project
 `Python` • `Pandas` • `Machine Learning` • `Data Analysis`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/weather_prediction_project
-
+https://github.com/amarchand-tigaya-pushkar/weather_prediction_project.git
 ---
 
 ## 💳 05 — Credit Card Fraud Detection
@@ -300,8 +296,7 @@ https://github.com/amarchand-tigaya-pushkar/weather_prediction_project
 `Machine Learning` • `Anomaly Detection` • `Fraud Detection` • `Isolation Forest`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project
-
+https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project.git
 ---
 
 ## 🎵 06 — Music Recommendation System
@@ -313,8 +308,7 @@ https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project
 `Recommendation System` • `Python` • `Machine Learning` • `KNN`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/music_recommendation_project
-
+https://github.com/amarchand-tigaya-pushkar/music_recommendation_project.git
 ---
 
 ## 🚧 07 — Coming Soon
@@ -348,8 +342,7 @@ https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction-.git
 `Computer Vision` • `AI` • `Action Recognition` • `Deep Learning`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition
-
+https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git
 ---
 
 ## 🚧 10 — Coming Soon
