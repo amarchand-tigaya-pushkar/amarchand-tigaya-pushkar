@@ -336,7 +336,7 @@ https://github.com/amarchand-tigaya-pushkar/music_recommendation_project
 `Regression` • `Machine Learning` • `Python` • `Data Science` • `Time Series`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction-.git
+https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction
 
 ---
 
