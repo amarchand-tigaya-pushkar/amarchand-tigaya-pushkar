@@ -385,9 +385,9 @@ https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git
 
 `Computer Vision` • `Object Detection` • `AI`
 
-**Status**
+**Repository:**
 
-`Coming Soon` 🚧
+https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 
 ---
 
