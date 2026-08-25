@@ -237,127 +237,22 @@ I --> J[🔥 Continuous Learning]
 </p>
 
 ---
-
 # 🚀 PROJECT PORTFOLIO
 
-## 🧍 01 — Human Action Recognition
+## 🚗 01 — Car Price Prediction
 
-> Computer Vision / AI project focused on recognizing human actions.
-
-**Focus**
-
-`Computer Vision` • `AI` • `Action Recognition` • `Deep Learning`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition
-
----
-
-## 🧍 02 — Human Action Recognition 9
-
-> Human activity recognition project focused on identifying different actions from visual data.
+> Machine Learning regression project for predicting vehicle prices.
 
 **Focus**
 
-`Computer Vision` • `Machine Learning` • `Action Classification`
+`Regression` • `Machine Learning` • `Python` • `Data Science`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition-9
+https://github.com/amarchand-tigaya-pushkar/car_price_project
 
 ---
 
-## 🌦️ 03 — Weather Prediction
-
-> Machine Learning project for weather prediction using historical data.
-
-**Focus**
-
-`Python` • `Pandas` • `Machine Learning` • `Data Analysis`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/weather_prediction_project
-
----
-
-## 🤖 04 — AI Coding Assistant Bot
-
-> AI-powered coding assistant designed to help with programming-related tasks.
-
-**Focus**
-
-`Python` • `AI` • `Automation` • `Coding Assistant`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/project-20-ai-coding-assistant-bot-project
-
----
-
-## 💬 05 — Customer Support Chatbot
-
-> Conversational AI project designed for automated customer support.
-
-**Focus**
-
-`NLP` • `AI` • `Chatbot` • `Automation`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/project-18-customer-support-chatbot-project
-
----
-
-## 🪖 06 — Helmet Detection
-
-> Computer Vision project focused on helmet detection.
-
-**Focus**
-
-`Computer Vision` • `Object Detection` • `AI`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/helmet_dataset
-
----
-
-## 💳 07 — Credit Card Fraud Detection
-
-> Machine Learning project focused on identifying potentially fraudulent transactions.
-
-**Focus**
-
-`Classification` • `Machine Learning` • `Fraud Detection`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project
-
----
-
-## 😊 08 — Sentiment Analysis
-
-> NLP project for analyzing sentiment in text.
-
-**Focus**
-
-`NLP` • `Natural Language Processing` • `Machine Learning`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project
-
----
-
-## 🎵 09 — Music Recommendation System
-
-> Recommendation system designed to suggest music using data-driven techniques.
-
-**Focus**
-
-`Recommendation System` • `Python` • `Machine Learning`
-
-🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/music_recommendation_project
-
----
-
-## 🏦 10 — Loan Approval Prediction
+## 🏦 02 — Loan Approval Prediction
 
 > Machine Learning classification project for predicting loan approval.
 
@@ -370,16 +265,349 @@ https://github.com/amarchand-tigaya-pushkar/loan_approval_project
 
 ---
 
-## 🚗 11 — Car Price Prediction
+## 😊 03 — Sentiment Analysis
 
-> Machine Learning regression project for predicting vehicle prices.
+> Natural Language Processing project for analyzing and classifying sentiment in text.
 
 **Focus**
 
-`Regression` • `Machine Learning` • `Python` • `Data Science`
+`NLP` • `Natural Language Processing` • `Machine Learning` • `Naive Bayes`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/car_price_project
+https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project
+
+---
+
+## 🌦️ 04 — Weather Prediction
+
+> Machine Learning project for predicting weather conditions using historical data.
+
+**Focus**
+
+`Python` • `Pandas` • `Machine Learning` • `Data Analysis`
+
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/weather_prediction_project
+
+---
+
+## 💳 05 — Credit Card Fraud Detection
+
+> Machine Learning project focused on detecting potentially fraudulent credit card transactions.
+
+**Focus**
+
+`Machine Learning` • `Anomaly Detection` • `Fraud Detection` • `Isolation Forest`
+
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project
+
+---
+
+## 🎵 06 — Music Recommendation System
+
+> Machine Learning recommendation system designed to suggest similar songs using audio features.
+
+**Focus**
+
+`Recommendation System` • `Python` • `Machine Learning` • `KNN`
+
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/music_recommendation_project
+
+---
+
+## 🚧 07 — Coming Soon
+
+> New Machine Learning / Data Science project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 📈 08 — Stock Price Prediction
+
+> Machine Learning regression project for predicting the next-day closing price using historical stock-market data.
+
+**Focus**
+
+`Regression` • `Machine Learning` • `Python` • `Data Science` • `Time Series`
+
+🔗 **Repository:** Coming Soon
+
+---
+
+## 🧍 09 — Human Action Recognition
+
+> Computer Vision / AI project focused on recognizing human actions.
+
+**Focus**
+
+`Computer Vision` • `AI` • `Action Recognition` • `Deep Learning`
+
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition
+
+---
+
+## 🚧 10 — Coming Soon
+
+> New Artificial Intelligence / Machine Learning project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🎼 11 — Music Genre Classification using Machine Learning
+
+> Machine Learning classification project for identifying music genres using audio-related features.
+
+**Focus**
+
+`Machine Learning` • `Classification` • `Music Analysis` • `Python`
+
+🔗 **Repository:** Available
+
+---
+
+## 📷 12 — Webcam App using Python
+
+> Python-based webcam application for real-time camera interaction.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🪖 13 — Helmet Detection System
+
+> Computer Vision project focused on detecting helmets from visual data.
+
+**Focus**
+
+`Computer Vision` • `Object Detection` • `AI`
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 14 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 15 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 16 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 17 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 💬 18 — Customer Support Chatbot
+
+> Conversational AI project designed for automated customer support.
+
+**Focus**
+
+`NLP` • `AI` • `Chatbot` • `Automation`
+
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/project-18-customer-support-chatbot-project
+
+---
+
+## 🚧 19 — Coming Soon
+
+> New Artificial Intelligence / Machine Learning project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🤖 20 — AI Coding Assistant Bot
+
+> AI-powered coding assistant designed to help with programming-related tasks.
+
+**Focus**
+
+`Python` • `AI` • `Automation` • `Coding Assistant`
+
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/project-20-ai-coding-assistant-bot-project
+
+---
+
+## 🚧 21 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 22 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 23 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 24 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 25 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 26 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 27 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 28 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 29 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+## 🚧 30 — Coming Soon
+
+> New project coming soon.
+
+**Status**
+
+`Coming Soon` 🚧
+
+---
+
+# 📊 PROJECT STATUS
+
+| # | Project | Status |
+|---:|---|---|
+| 01 | Car Price Prediction | ✅ Available |
+| 02 | Loan Approval Prediction | ✅ Available |
+| 03 | Sentiment Analysis | ✅ Available |
+| 04 | Weather Prediction | ✅ Available |
+| 05 | Credit Card Fraud Detection | ✅ Available |
+| 06 | Music Recommendation System | ✅ Available |
+| 07 | Coming Soon | 🚧 Coming Soon |
+| 08 | Stock Price Prediction | ✅ Available |
+| 09 | Human Action Recognition | ✅ Available |
+| 10 | Coming Soon | 🚧 Coming Soon |
+| 11 | Music Genre Classification using Machine Learning | ✅ Available |
+| 12 | Webcam App using Python | 🚧 Coming Soon |
+| 13 | Helmet Detection System | 🚧 Coming Soon |
+| 14 | Coming Soon | 🚧 Coming Soon |
+| 15 | Coming Soon | 🚧 Coming Soon |
+| 16 | Coming Soon | 🚧 Coming Soon |
+| 17 | Coming Soon | 🚧 Coming Soon |
+| 18 | Customer Support Chatbot | ✅ Available |
+| 19 | Coming Soon | 🚧 Coming Soon |
+| 20 | AI Coding Assistant Bot | ✅ Available |
+| 21 | Coming Soon | 🚧 Coming Soon |
+| 22 | Coming Soon | 🚧 Coming Soon |
+| 23 | Coming Soon | 🚧 Coming Soon |
+| 24 | Coming Soon | 🚧 Coming Soon |
+| 25 | Coming Soon | 🚧 Coming Soon |
+| 26 | Coming Soon | 🚧 Coming Soon |
+| 27 | Coming Soon | 🚧 Coming Soon |
+| 28 | Coming Soon | 🚧 Coming Soon |
+| 29 | Coming Soon | 🚧 Coming Soon |
+| 30 | Coming Soon | 🚧 Coming Soon |
 
 ---
 
