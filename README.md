@@ -336,8 +336,7 @@ https://github.com/amarchand-tigaya-pushkar/music_recommendation_project
 `Regression` • `Machine Learning` • `Python` • `Data Science` • `Time Series`
 
 🔗 **Repository:**
-https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction
-
+https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction-.git
 ---
 
 ## 🧍 09 — Human Action Recognition
