@@ -438,7 +438,7 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 
 `NLP` • `AI` • `Chatbot` • `Automation`
 
-🔗 **Repository:**
+**Status**
 
 `Coming Soon` 🚧
 
@@ -462,7 +462,7 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 
 `Python` • `AI` • `Automation` • `Coding Assistant`
 
-🔗 **Repository:**
+**Status**
 
 `Coming Soon` 🚧
 
@@ -582,16 +582,16 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 | 08 | Stock Price Prediction | ✅ Available |
 | 09 | Human Action Recognition | ✅ Available |
 | 10 | Coming Soon | 🚧 Coming Soon |
-| 11 | Music Genre Classification using Machine Learning | Coming Soon 🚧 |
+| 11 | Music Genre Classification using Machine Learning |🚧 Coming Soon  |
 | 12 | Webcam App using Python | 🚧 Coming Soon |
 | 13 | Helmet Detection System | 🚧 Coming Soon |
 | 14 | Coming Soon | 🚧 Coming Soon |
 | 15 | Coming Soon | 🚧 Coming Soon |
 | 16 | Coming Soon | 🚧 Coming Soon |
 | 17 | Coming Soon | 🚧 Coming Soon |
-| 18 | Customer Support Chatbot | Coming Soon 🚧 |
+| 18 | Customer Support Chatbot |🚧 Coming Soon  |
 | 19 | Coming Soon | 🚧 Coming Soon |
-| 20 | AI Coding Assistant Bot | Coming Soon 🚧 |
+| 20 | AI Coding Assistant Bot |🚧 Coming Soon  |
 | 21 | Coming Soon | 🚧 Coming Soon |
 | 22 | Coming Soon | 🚧 Coming Soon |
 | 23 | Coming Soon | 🚧 Coming Soon |
