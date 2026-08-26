@@ -365,6 +365,8 @@ https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git
 
 🔗 **Repository:** Available
 
+https://github.com/amarchand-tigaya-pushkar/music_genre_project.git
+
 ---
 
 ## 📷 12 — Webcam App using Python
