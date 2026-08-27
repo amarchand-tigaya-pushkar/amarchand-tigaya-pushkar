@@ -363,7 +363,7 @@ https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git
 
 `Machine Learning` • `Classification` • `Music Analysis` • `Python`
 
-🔗 **Repository:** Available
+🔗 **Repository:**
 
 https://github.com/amarchand-tigaya-pushkar/music_genre_project.git
 ---
@@ -439,10 +439,9 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 
 `NLP` • `AI` • `Chatbot` • `Automation`
 
-**Status**
+**Repository:**
 
-`Coming Soon` 🚧
-
+https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 ---
 
 ## 🚧 19 — Coming Soon
@@ -590,7 +589,7 @@ https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 | 15 | Coming Soon | 🚧 Coming Soon |
 | 16 | Coming Soon | 🚧 Coming Soon |
 | 17 | Coming Soon | 🚧 Coming Soon |
-| 18 | Customer Support Chatbot |🚧 Coming Soon  |
+| 18 | Customer Support Chatbot |✅ Available  |
 | 19 | Coming Soon | 🚧 Coming Soon |
 | 20 | AI Coding Assistant Bot |🚧 Coming Soon  |
 | 21 | Coming Soon | 🚧 Coming Soon |
