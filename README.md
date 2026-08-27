@@ -582,7 +582,7 @@ https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 | 08 | Stock Price Prediction | ✅ Available |
 | 09 | Human Action Recognition | ✅ Available |
 | 10 | Coming Soon | 🚧 Coming Soon |
-| 11 | Music Genre Classification using Machine Learning |🚧 Coming Soon  |
+| 11 | Music Genre Classification using Machine Learning |✅ Available  |
 | 12 | Webcam App using Python | 🚧 Coming Soon |
 | 13 | Helmet Detection System | ✅ Available |
 | 14 | Coming Soon | 🚧 Coming Soon |
