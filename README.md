@@ -372,10 +372,9 @@ https://github.com/amarchand-tigaya-pushkar/music_genre_project.git
 
 > Python-based webcam application for real-time camera interaction.
 
-**Status**
+**Repository:**
 
-`Coming Soon` 🚧
-
+https://github.com/amarchand-tigaya-pushkar/python-webcam_app.py.git
 ---
 
 ## 🪖 13 — Helmet Detection System
@@ -583,7 +582,7 @@ https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 | 09 | Human Action Recognition | ✅ Available |
 | 10 | Coming Soon | 🚧 Coming Soon |
 | 11 | Music Genre Classification using Machine Learning |✅ Available  |
-| 12 | Webcam App using Python | 🚧 Coming Soon |
+| 12 | Webcam App using Python | ✅ Available |
 | 13 | Helmet Detection System | ✅ Available |
 | 14 | Coming Soon | 🚧 Coming Soon |
 | 15 | Coming Soon | 🚧 Coming Soon |
