@@ -311,14 +311,12 @@ https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project.git
 https://github.com/amarchand-tigaya-pushkar/music_recommendation_project.git
 ---
 
-## 🚧 07 — Coming Soon
+## 🚧 07 — customer-segmentation-kmeans
 
-> New Machine Learning / Data Science project coming soon.
+> .
 
-**Status**
-
-`Coming Soon` 🚧
-
+🔗 **Repository:**
+https://github.com/amarchand-tigaya-pushkar/customer-segmentation-k-means.git
 ---
 
 ## 📈 08 — Stock Price Prediction
@@ -577,7 +575,7 @@ https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 | 04 | Weather Prediction | ✅ Available |
 | 05 | Credit Card Fraud Detection | ✅ Available |
 | 06 | Music Recommendation System | ✅ Available |
-| 07 | Coming Soon | 🚧 Coming Soon |
+| 07 | Coming Soon | ✅ Available |
 | 08 | Stock Price Prediction | ✅ Available |
 | 09 | Human Action Recognition | ✅ Available |
 | 10 | Coming Soon | 🚧 Coming Soon |
