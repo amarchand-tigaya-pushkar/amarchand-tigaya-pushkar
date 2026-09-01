@@ -459,10 +459,9 @@ https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 
 `Python` • `AI` • `Automation` • `Coding Assistant`
 
-**Status**
+**Repository:**
 
-`Coming Soon` 🚧
-
+https://github.com/amarchand-tigaya-pushkar/AI-Coding-Assistant-Bot.git
 ---
 
 ## 🚧 21 — Coming Soon
