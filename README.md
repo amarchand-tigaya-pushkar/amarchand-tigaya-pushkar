@@ -468,13 +468,13 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 
 ---
 
-## 🚧 22 — Coming Soon
+## 🚧 22 — Email-Summarization-Agent
 
-> New project coming soon.
+> Create an agent that reads an email message and gives a short summary.
 
-**Status**
+**Repository:**
 
-`Coming Soon` 🚧
+https://github.com/amarchand-tigaya-pushkar/Project-22-Email-Summarization-Agent.git
 
 ---
 
