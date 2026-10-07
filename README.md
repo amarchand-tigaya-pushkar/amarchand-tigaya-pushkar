@@ -588,7 +588,7 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 18 | Customer Support Chatbot |  |
 | 19 | Coming Soon | 🚧 Coming Soon |
 | 20 | AI Coding Assistant Bot |🚧 Coming Soon  |
-| 21 | Coming Soon | ✅ Available |
+| 21 | FAQ-Chatbot | ✅ Available |
 | 22 | Coming Soon | 🚧 Coming Soon |
 | 23 | Coming Soon | 🚧 Coming Soon |
 | 24 | Coming Soon | 🚧 Coming Soon |
