@@ -407,14 +407,11 @@ https://github.com/amarchand-tigaya-pushkar/News-Search-Agent.git
 
 ---
 
-## 🚧 16 — Coming Soon
+## 🚧 16 — Resume-Screening-Agent
 
-> New project coming soon.
-
-**Status**
-
-`Coming Soon` 🚧
-
+>Create an agent that checks a resume and matches it with a job requirement.
+**Repository:**
+https://github.com/amarchand-tigaya-pushkar/Resume-Screening-Agent.git
 ---
 
 ## 🚧 17 — Coming Soon
@@ -582,11 +579,11 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 13 | Helmet Detection System | ✅ Available |
 | 14 | Currency-Converter-Agent |✅ Available |
 | 15 | News-Search-Agent | ✅ Available |
-| 16 | Coming Soon | 🚧 Coming Soon |
+| 16 | Resume-Screening-Agent |✅ Available |
 | 17 | Coming Soon | 🚧 Coming Soon |
-| 18 | Customer Support Chatbot |  |
+| 18 | Customer Support Chatbot | ✅ Available |
 | 19 | Coming Soon | 🚧 Coming Soon |
-| 20 | AI Coding Assistant Bot |🚧 Coming Soon  |
+| 20 | AI Coding Assistant Bot |✅ Available  |
 | 21 | FAQ-Chatbot | ✅ Available |
 | 22 | Coming Soon | 🚧 Coming Soon |
 | 23 | Coming Soon | 🚧 Coming Soon |
