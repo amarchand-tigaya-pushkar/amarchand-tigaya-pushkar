@@ -414,13 +414,12 @@ https://github.com/amarchand-tigaya-pushkar/News-Search-Agent.git
 https://github.com/amarchand-tigaya-pushkar/Resume-Screening-Agent.git
 ---
 
-## 🚧 17 — Coming Soon
+## 🚧 17 — Customer-Support-Agent
 
-> New project coming soon.
+> Create an agent that answers customer questions automatically..
 
-**Status**
-
-`Coming Soon` 🚧
+**Repository:**
+https://github.com/amarchand-tigaya-pushkar/Customer-Support-Agent.git
 
 ---
 
@@ -580,7 +579,7 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 14 | Currency-Converter-Agent |✅ Available |
 | 15 | News-Search-Agent | ✅ Available |
 | 16 | Resume-Screening-Agent |✅ Available |
-| 17 | Coming Soon | 🚧 Coming Soon |
+| 17 | Customer-Support-Agent| ✅ Available |
 | 18 | Customer Support Chatbot | ✅ Available |
 | 19 | Coming Soon | 🚧 Coming Soon |
 | 20 | AI Coding Assistant Bot |✅ Available  |
