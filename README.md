@@ -343,13 +343,13 @@ https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction-.git
 https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git
 ---
 
-## 🚧 10 — Coming Soon
+## 🚧 10 — Project-10-Weather-Agent
 
-> New Artificial Intelligence / Machine Learning project coming soon.
+> Simple Weather Agent using Python
 
-**Status**
+🔗 **Repository:**
 
-`Coming Soon` 🚧
+https://github.com/amarchand-tigaya-pushkar/Project-10-Weather-Agent.git
 
 ---
 
@@ -576,8 +576,8 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 06 | Music Recommendation System | ✅ Available |
 | 07 | Coming Soon | ✅ Available |
 | 08 | Stock Price Prediction | ✅ Available |
-| 09 | Human Action Recognition | ✅ Available |
-| 10 | Coming Soon | 🚧 Coming Soon |
+| 09 | Human Action Recognition |  |
+| 10 | Weather-Agent | ✅ Available|
 | 11 | Music Genre Classification using Machine Learning |✅ Available  |
 | 12 | Webcam App using Python | ✅ Available |
 | 13 | Helmet Detection System | ✅ Available |
