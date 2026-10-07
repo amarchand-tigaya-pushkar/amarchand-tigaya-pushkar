@@ -388,13 +388,13 @@ https://github.com/amarchand-tigaya-pushkar/python-webcam_app.py.git
 https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git
 ---
 
-## 🚧 14 — Coming Soon
+## 🚧 14 — Currency-Converter-Agent
 
-> New project coming soon.
+> Simple Currency Converter Agent using Python.
 
-**Status**
+**Repository:** 
 
-`Coming Soon` 🚧
+https://github.com/amarchand-tigaya-pushkar/Currency-Converter-Agent.git
 
 ---
 
@@ -581,7 +581,7 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 11 | Music Genre Classification using Machine Learning |✅ Available  |
 | 12 | Webcam App using Python | ✅ Available |
 | 13 | Helmet Detection System | ✅ Available |
-| 14 | Coming Soon | 🚧 Coming Soon |
+| 14 | Currency-Converter-Agent |✅ Available |
 | 15 | Coming Soon | 🚧 Coming Soon |
 | 16 | Coming Soon | 🚧 Coming Soon |
 | 17 | Coming Soon | 🚧 Coming Soon |
