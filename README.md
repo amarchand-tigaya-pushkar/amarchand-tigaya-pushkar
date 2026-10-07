@@ -575,7 +575,7 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 05 | Credit Card Fraud Detection | ✅ Available |
 | 06 | Music Recommendation System | ✅ Available |
 | 07 | Coming Soon | ✅ Available |
-| 08 | Stock Price Prediction |  |
+| 08 | Stock Price Prediction |✅ Available  |
 | 09 | Human Action Recognition |✅ Available  |
 | 10 | Weather-Agent | ✅ Available|
 | 11 | Music Genre Classification using Machine Learning |✅ Available  |
