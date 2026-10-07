@@ -464,13 +464,13 @@ https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 https://github.com/amarchand-tigaya-pushkar/AI-Coding-Assistant-Bot.git
 ---
 
-## 🚧 21 — Coming Soon
+## 🚧 21 — FAQ-Chatbot
 
-> New project coming soon.
+> Simple FAQ Chatbot using Python
 
-**Status**
+**Repository:**
 
-`Coming Soon` 🚧
+https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 
 ---
 
@@ -585,10 +585,10 @@ https://github.com/amarchand-tigaya-pushkar/AI-Coding-Assistant-Bot.git
 | 15 | Coming Soon | 🚧 Coming Soon |
 | 16 | Coming Soon | 🚧 Coming Soon |
 | 17 | Coming Soon | 🚧 Coming Soon |
-| 18 | Customer Support Chatbot |✅ Available  |
+| 18 | Customer Support Chatbot |  |
 | 19 | Coming Soon | 🚧 Coming Soon |
 | 20 | AI Coding Assistant Bot |🚧 Coming Soon  |
-| 21 | Coming Soon | 🚧 Coming Soon |
+| 21 | Coming Soon | ✅ Available |
 | 22 | Coming Soon | 🚧 Coming Soon |
 | 23 | Coming Soon | 🚧 Coming Soon |
 | 24 | Coming Soon | 🚧 Coming Soon |
