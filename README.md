@@ -6,7 +6,9 @@
 
 After deploying the `portfolio` folder with GitHub Pages, add your live URL here:
 
-**[🌐 VIEW MY INTERACTIVE PORTFOLIO](#)**
+<a href="https://amarchand-tigaya-pushkar.github.io/amarchand-tigaya-pushkar/" target="_blank">
+  🌐 VIEW MY INTERACTIVE PORTFOLIO
+</a>
 
 ## 📁 Website Structure
 
