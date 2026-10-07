@@ -398,13 +398,12 @@ https://github.com/amarchand-tigaya-pushkar/Currency-Converter-Agent.git
 
 ---
 
-## 🚧 15 — Coming Soon
+## 🚧 15 — News-Search-Agent
 
-> New project coming soon.
+> Create an agent that searches latest news by topic.
 
-**Status**
-
-`Coming Soon` 🚧
+**Repository:**
+https://github.com/amarchand-tigaya-pushkar/News-Search-Agent.git
 
 ---
 
@@ -582,7 +581,7 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 12 | Webcam App using Python | ✅ Available |
 | 13 | Helmet Detection System | ✅ Available |
 | 14 | Currency-Converter-Agent |✅ Available |
-| 15 | Coming Soon | 🚧 Coming Soon |
+| 15 | News-Search-Agent | ✅ Available |
 | 16 | Coming Soon | 🚧 Coming Soon |
 | 17 | Coming Soon | 🚧 Coming Soon |
 | 18 | Customer Support Chatbot |  |
