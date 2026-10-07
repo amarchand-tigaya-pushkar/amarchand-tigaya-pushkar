@@ -436,13 +436,12 @@ https://github.com/amarchand-tigaya-pushkar/Customer-Support-Agent.git
 https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git
 ---
 
-## 🚧 19 — Coming Soon
+## 🚧 19 — PDF-Question-Answering-Agent
 
-> New Artificial Intelligence / Machine Learning project coming soon.
+>Create an agent that reads a PDF and answers questions from it.
 
-**Status**
-
-`Coming Soon` 🚧
+**Repository:**
+https://github.com/amarchand-tigaya-pushkar/PDF-Question-Answering-Agent.git
 
 ---
 
@@ -581,7 +580,7 @@ https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git
 | 16 | Resume-Screening-Agent |✅ Available |
 | 17 | Customer-Support-Agent| ✅ Available |
 | 18 | Customer Support Chatbot | ✅ Available |
-| 19 | Coming Soon | 🚧 Coming Soon |
+| 19 | PDF-Question-Answering-Agent |✅ Available |
 | 20 | AI Coding Assistant Bot |✅ Available  |
 | 21 | FAQ-Chatbot | ✅ Available |
 | 22 | Coming Soon | 🚧 Coming Soon |
