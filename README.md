@@ -1,132 +1,140 @@
 <div align="center">
 
-👋 AMAR CHAND TIGAYA PUSHKAR
-📊 Data Science • 🤖 Machine Learning • 🧠 AI • 👁️ Computer Vision • 💬 NLP
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Artificial+Intelligence+Explorer;Python+Developer;Computer+Vision+Enthusiast;Building+Real-World+AI+Projects" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:00F7FF&height=190&section=header&text=AMAR%20CHAND%20TIGAYA%20PUSHKAR&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=60&descSize=17" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Artificial+Intelligence+Explorer;Python+Developer;Computer+Vision+Enthusiast;Building+Real-World+AI+Projects" />
 
-
+<br><br>
 
 <a href="https://github.com/amarchand-tigaya-pushkar">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AMARCHAND--TIGAYA--PUSHKAR-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amarchand-tigaya-pushkar">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-AMAR%20CHAND%20TIGAYA%20PUSHKAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
-
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=amarchand-tigaya-pushkar&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-
-
-
-🚀 Turning data into insights, models into solutions, and ideas into real-world AI applications.
 </div>
 
-🧭 PORTFOLIO NAVIGATION
+---
+
+## 🧭 PORTFOLIO NAVIGATION
+
 <div align="center">
 
-🏠 About	🛠️ Stack	🚀 Projects
-📊 Analytics	🗺️ Roadmap	🌐 Connect
-
+| 🏠 Profile | 🛠️ Skills | 🚀 Projects | 📊 Analytics | 🎯 Roadmap | 🌐 Connect |
+|---|---|---|---|---|---|
+| [About](#-about-me) | [Tech Stack](#️-technology-stack) | [Portfolio](#-project-portfolio) | [GitHub Stats](#-github-analytics) | [Goals](#-2026-goals) | [Contact](#-connect-with-me) |
 
 </div>
 
-🧠 ABOUT ME
+> **Portfolio principle:** `LEARN → BUILD → ANALYZE → DEPLOY → IMPROVE`
+
+---
+
+# 👨‍💻 ABOUT ME
+
 <div align="center">
 
-👨‍💻 Amar Chand Tigaya Pushkar
-📊 Data Science Enthusiast  •  🤖 Machine Learning  •  🧠 Artificial Intelligence
+### **Amar Chand Tigaya Pushkar**
+
+**📊 Data Science Enthusiast** • **🤖 Machine Learning** • **🧠 Artificial Intelligence**
+
 </div>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-📊
-Data Science
-Data Analysis
+### 📊
+## Data Science
 
-Visualization
-
+Data Analysis  
+Visualization  
 Statistics
+
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-🤖
-Machine Learning
-Prediction
+### 🤖
+## Machine Learning
 
-Classification
-
+Prediction  
+Classification  
 Regression
+
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-👁️
-Computer Vision
-Object Detection
+### 👁️
+## Computer Vision
 
-Action Recognition
-
+Object Detection  
+Action Recognition  
 Image Analysis
+
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-💬
-AI & NLP
-Chatbots
+### 💬
+## AI & NLP
 
-Sentiment Analysis
-
+Chatbots  
+Sentiment Analysis  
 Generative AI
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-🐍 Primary Language
+### 🐍 Primary Language
+
 <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<br><br>
 
+> 🚀 **Turning data into insights, models into solutions, and ideas into real-world AI applications.**
 
+### `LEARN` 📚 → `BUILD` 💻 → `ANALYZE` 📊 → `DEPLOY` 🚀 → `IMPROVE` 🔥
 
-LEARN 📚 → BUILD 💻 → ANALYZE 📊 → DEPLOY 🚀 → IMPROVE 🔥
 </div>
 
-🔭 WHAT I'M EXPLORING
-<table>
-<tr>
-<td width="50%">
+---
 
-📊 Data Science
-- Data Analysis
-- Data Visualization
-- Predictive Analytics
-🤖 Machine Learning
-- Regression
-- Classification
-- Recommendation Systems
-</td>
-<td width="50%">
+# 🔭 WHAT I'M EXPLORING
 
-🧠 Artificial Intelligence
-- Generative AI
-- NLP
-- AI Applications
-👁️ Computer Vision
-- Object Detection
-- Human Action Recognition
-- Image Analysis
-</td>
-</tr>
-</table>
+```text
+📊 DATA SCIENCE
+   ├── Data Analysis
+   ├── Data Visualization
+   └── Predictive Analytics
 
-📊 MY DATA SCIENCE JOURNEY
+🤖 MACHINE LEARNING
+   ├── Regression
+   ├── Classification
+   └── Recommendation Systems
+
+🧠 ARTIFICIAL INTELLIGENCE
+   ├── Generative AI
+   ├── NLP
+   └── AI Applications
+
+👁️ COMPUTER VISION
+   ├── Object Detection
+   ├── Human Action Recognition
+   └── Image Analysis
+```
+
+---
+
+# 🧬 MY DATA SCIENCE JOURNEY
+
 ```mermaid
 flowchart LR
     A[📚 Learn] --> B[🐍 Python]
@@ -140,360 +148,511 @@ flowchart LR
     H --> I[🌐 Deployment]
     I --> J[🔥 Continuous Learning]
 ```
-🛠️ TECHNOLOGY STACK
+
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+## 🐍 Programming
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+</div>
+
+## 📊 Data Science & Analytics
+
 <div align="center">
 
-🐍 Programming
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-
-
-
-
-📊 Data Science & Analytics
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge"/>
 
+</div>
 
+## 🤖 Machine Learning
 
+<div align="center">
 
-🤖 Machine Learning
 <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Regression-ML-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Classification-ML-008080?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Recommendation-Systems-FF1493?style=for-the-badge"/>
 
+</div>
 
+## 🧠 Artificial Intelligence
 
+<div align="center">
 
-🧠 Artificial Intelligence
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-LLMs-00A67E?style=for-the-badge"/>
 
+</div>
 
+## 👁️ Computer Vision
 
+<div align="center">
 
-👁️ Computer Vision
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Object%20Detection-AI-FF4500?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Human%20Action%20Recognition-CV-00BFFF?style=for-the-badge"/>
 
+</div>
 
+## 💬 NLP & Chatbots
 
+<div align="center">
 
-💬 NLP & Chatbots
 <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4B0082?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Sentiment%20Analysis-NLP-FF69B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Chatbots-Conversational%20AI-00A86B?style=for-the-badge"/>
 
+</div>
 
+## 🌐 Development & Tools
 
-
-🌐 Development & Tools
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,vscode" />
-
 </div>
 
-🚀 PROJECT PORTFOLIO
-A visual project showcase designed for quick recruiter scanning.
+---
 
-📊 MACHINE LEARNING & DATA SCIENCE
+# 🚀 PROJECT PORTFOLIO
+
+> **30-project portfolio roadmap** — available projects are presented first, followed by the upcoming project pipeline.
+
+## 📊 MACHINE LEARNING & DATA SCIENCE
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🚗 01 — Car Price Prediction
+### 🚗 01 — Car Price Prediction
+
 Machine Learning regression project for predicting vehicle prices.
-Focus: Regression • Machine Learning • Python • Data Science
-🔗 Repository →
+
+**Focus:** `Regression` `Machine Learning` `Python` `Data Science`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/car_price_project.git)**
+
 </td>
 <td width="50%" valign="top">
 
-🏦 02 — Loan Approval Prediction
+### 🏦 02 — Loan Approval Prediction
+
 Machine Learning classification project for predicting loan approval.
-Focus: Classification • Machine Learning • Data Analysis
-🔗 Repository →
+
+**Focus:** `Classification` `Machine Learning` `Data Analysis`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/loan_approval_project.git)**
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-🌦️ 04 — Weather Prediction
+### 🌦️ 04 — Weather Prediction
+
 Machine Learning project for predicting weather conditions using historical data.
-Focus: Python • Pandas • Machine Learning • Data Analysis
-🔗 Repository →
-</td>
-<td valign="top">
 
-💳 05 — Credit Card Fraud Detection
+**Focus:** `Python` `Pandas` `Machine Learning` `Data Analysis`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/weather_prediction_project.git)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 05 — Credit Card Fraud Detection
+
 Machine Learning project focused on detecting potentially fraudulent credit card transactions.
-Focus: Machine Learning • Anomaly Detection • Fraud Detection • Isolation Forest
-🔗 Repository →
+
+**Focus:** `Machine Learning` `Anomaly Detection` `Fraud Detection` `Isolation Forest`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/credit_card_fraud_project.git)**
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-📈 08 — Stock Price Prediction
+### 📈 08 — Stock Price Prediction
+
 Machine Learning regression project for predicting the next-day closing price using historical stock-market data.
-Focus: Regression • Machine Learning • Python • Data Science • Time Series
-🔗 Repository →
-</td>
-<td valign="top">
 
-🎼 11 — Music Genre Classification using Machine Learning
+**Focus:** `Regression` `Machine Learning` `Python` `Data Science` `Time Series`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Stock-Price-Prediction-.git)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎼 11 — Music Genre Classification using Machine Learning
+
 Machine Learning classification project for identifying music genres using audio-related features.
-Focus: Machine Learning • Classification • Music Analysis • Python
-🔗 Repository →
+
+**Focus:** `Machine Learning` `Classification` `Music Analysis` `Python`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/music_genre_project.git)**
+
 </td>
 </tr>
 </table>
 
-🧠 NLP & RECOMMENDATION AI
+---
+
+## 💬 NLP & RECOMMENDATION AI
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-😊 03 — Sentiment Analysis
+### 😊 03 — Sentiment Analysis
+
 Natural Language Processing project for analyzing and classifying sentiment in text.
-Focus: NLP • Natural Language Processing • Machine Learning • Naive Bayes
-🔗 Repository →
+
+**Focus:** `NLP` `Natural Language Processing` `Machine Learning` `Naive Bayes`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/sentiment_analysis_project.git)**
+
 </td>
 <td width="50%" valign="top">
 
-🎵 06 — Music Recommendation System
+### 🎵 06 — Music Recommendation System
+
 Machine Learning recommendation system designed to suggest similar songs using audio features.
-Focus: Recommendation System • Python • Machine Learning • KNN
-🔗 Repository →
-</td>
-</tr>
 
-<tr>
-<td valign="top">
+**Focus:** `Recommendation System` `Python` `Machine Learning` `KNN`
 
-🚧 07 — customer-segmentation-kmeans
-.
-🔗 Repository →
-</td>
-<td valign="top">
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/music_recommendation_project.git)**
 
-🚧 10 — Project-10-Weather-Agent
-Simple Weather Agent using Python
-🔗 Repository →
 </td>
 </tr>
 </table>
 
-👁️ COMPUTER VISION & AI
+---
+
+## 👁️ COMPUTER VISION & AI
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🧍 09 — Human Action Recognition
+### 🧍 09 — Human Action Recognition
+
 Computer Vision / AI project focused on recognizing human actions.
-Focus: Computer Vision • AI • Action Recognition • Deep Learning
-🔗 Repository →
+
+**Focus:** `Computer Vision` `AI` `Action Recognition` `Deep Learning`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Human-Action-Recognition.git)**
+
 </td>
 <td width="50%" valign="top">
 
-📷 12 — Webcam App using Python
+### 📷 12 — Webcam App using Python
+
 Python-based webcam application for real-time camera interaction.
-🔗 Repository →
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/python-webcam_app.py.git)**
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-🪖 13 — Helmet Detection System
+### 🪖 13 — Helmet Detection System
+
 Computer Vision project focused on detecting helmets from visual data.
-Focus: Computer Vision • Object Detection • AI
-🔗 Repository →
-</td>
-<td valign="top">
 
-🤖 20 — AI Coding Assistant Bot
-AI-powered coding assistant designed to help with programming-related tasks.
-Focus: Python • AI • Automation • Coding Assistant
-🔗 Repository →
+**Focus:** `Computer Vision` `Object Detection` `AI`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Helmet-Detection-System-.git)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 18 — Customer Support Chatbot
+
+Conversational AI project designed for automated customer support.
+
+**Focus:** `NLP` `AI` `Chatbot` `Automation`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/customer-support-chatbot.git)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚧 07 — customer-segmentation-kmeans
+
+.
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/customer-segmentation-k-means.git)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 10 — Project-10-Weather-Agent
+
+Simple Weather Agent using Python.
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Project-10-Weather-Agent.git)**
+
 </td>
 </tr>
 </table>
 
-🤖 AGENTIC AI PROJECTS
+---
+
+## 🤖 AGENTIC AI & AUTOMATION
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🚧 14 — Currency-Converter-Agent
+### 🚧 14 — Currency-Converter-Agent
+
 Simple Currency Converter Agent using Python.
-🔗 Repository →
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Currency-Converter-Agent.git)**
+
 </td>
 <td width="50%" valign="top">
 
-🚧 15 — News-Search-Agent
+### 🚧 15 — News-Search-Agent
+
 Create an agent that searches latest news by topic.
-🔗 Repository →
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/News-Search-Agent.git)**
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-🚧 16 — Resume-Screening-Agent
+### 🚧 16 — Resume-Screening-Agent
+
 Create an agent that checks a resume and matches it with a job requirement.
-🔗 Repository →
-</td>
-<td valign="top">
 
-🚧 17 — Customer-Support-Agent
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Resume-Screening-Agent.git)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 17 — Customer-Support-Agent
+
 Create an agent that answers customer questions automatically..
-🔗 Repository →
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Customer-Support-Agent.git)**
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-🚧 19 — PDF-Question-Answering-Agent
+### 🚧 19 — PDF-Question-Answering-Agent
+
 Create an agent that reads a PDF and answers questions from it.
-🔗 Repository →
-</td>
-<td valign="top">
 
-🚧 21 — FAQ-Chatbot
-Simple FAQ Chatbot using Python
-🔗 Repository →
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/PDF-Question-Answering-Agent.git)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 20 — AI Coding Assistant Bot
+
+AI-powered coding assistant designed to help with programming-related tasks.
+
+**Focus:** `Python` `AI` `Automation` `Coding Assistant`
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/AI-Coding-Assistant-Bot.git)**
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-🚧 22 — Email-Summarization-Agent
-Create an agent that reads an email message and gives a short summary.
-🔗 Repository →
+### 🚧 21 — FAQ-Chatbot
+
+Simple FAQ Chatbot using Python.
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/FAQ-Chatbot.git)**
+
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-🚧 18 — Customer Support Chatbot
-Conversational AI project designed for automated customer support.
-Focus: NLP • AI • Chatbot • Automation
-🔗 Repository →
+### 🚧 22 — Email-Summarization-Agent
+
+Create an agent that reads an email message and gives a short summary.
+
+🔗 **[View Repository](https://github.com/amarchand-tigaya-pushkar/Project-22-Email-Summarization-Agent.git)**
+
 </td>
 </tr>
 </table>
 
-📌 PROJECT SNAPSHOT
+---
+
+# 🧩 PROJECT PIPELINE
+
+<table>
+<tr>
+<td align="center"><b>23</b><br>🚧 Coming Soon</td>
+<td align="center"><b>24</b><br>🚧 Coming Soon</td>
+<td align="center"><b>25</b><br>🚧 Coming Soon</td>
+<td align="center"><b>26</b><br>🚧 Coming Soon</td>
+</tr>
+<tr>
+<td align="center"><b>27</b><br>🚧 Coming Soon</td>
+<td align="center"><b>28</b><br>🚧 Coming Soon</td>
+<td align="center"><b>29</b><br>🚧 Coming Soon</td>
+<td align="center"><b>30</b><br>🚧 Coming Soon</td>
+</tr>
+</table>
+
+---
+
+# 📊 PROJECT STATUS
+
+| # | Project | Status |
+|---:|---|:---:|
+| 01 | Car Price Prediction | ✅ Available |
+| 02 | Loan Approval Prediction | ✅ Available |
+| 03 | Sentiment Analysis | ✅ Available |
+| 04 | Weather Prediction | ✅ Available |
+| 05 | Credit Card Fraud Detection | ✅ Available |
+| 06 | Music Recommendation System | ✅ Available |
+| 07 | Coming Soon | ✅ Available |
+| 08 | Stock Price Prediction | ✅ Available |
+| 09 | Human Action Recognition | ✅ Available |
+| 10 | Weather-Agent | ✅ Available |
+| 11 | Music Genre Classification using Machine Learning | ✅ Available |
+| 12 | Webcam App using Python | ✅ Available |
+| 13 | Helmet Detection System | ✅ Available |
+| 14 | Currency-Converter-Agent | ✅ Available |
+| 15 | News-Search-Agent | ✅ Available |
+| 16 | Resume-Screening-Agent | ✅ Available |
+| 17 | Customer-Support-Agent | ✅ Available |
+| 18 | Customer Support Chatbot | ✅ Available |
+| 19 | PDF-Question-Answering-Agent | ✅ Available |
+| 20 | AI Coding Assistant Bot | ✅ Available |
+| 21 | FAQ-Chatbot | ✅ Available |
+| 22 | Email-Summarization-Agent | ✅ Available |
+| 23 | Coming Soon | 🚧 Coming Soon |
+| 24 | Coming Soon | 🚧 Coming Soon |
+| 25 | Coming Soon | 🚧 Coming Soon |
+| 26 | Coming Soon | 🚧 Coming Soon |
+| 27 | Coming Soon | 🚧 Coming Soon |
+| 28 | Coming Soon | 🚧 Coming Soon |
+| 29 | Coming Soon | 🚧 Coming Soon |
+| 30 | Coming Soon | 🚧 Coming Soon |
+
+---
+
+# 🧠 PROJECT CATEGORIES
+
+```mermaid
+pie title Project Portfolio
+    "Computer Vision" : 3
+    "Machine Learning" : 4
+    "AI / Chatbots" : 2
+    "NLP" : 1
+    "Recommendation System" : 1
+```
+
+---
+
+# 🏗️ WHAT I BUILD
+
+```text
+                         ┌───────────────────────┐
+                         │     DATA SCIENCE      │
+                         └───────────┬───────────┘
+                                     │
+              ┌──────────────────────┼──────────────────────┐
+              │                      │                      │
+              ▼                      ▼                      ▼
+       📊 DATA ANALYSIS       🤖 MACHINE LEARNING       🧠 AI
+              │                      │                      │
+              │              ┌───────┼────────┐             │
+              │              │       │        │             │
+              ▼              ▼       ▼        ▼             ▼
+          Insights       Regression Classification     NLP / LLMs
+                                │                    │
+                                ▼                    ▼
+                           Predictions           Chatbots
+                                │                    │
+                                └─────────┬──────────┘
+                                          ▼
+                                   🚀 DEPLOYMENT
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
+
 <div align="center">
 
-🧩 Area	🚀 Focus
-📊 Data Science	Analysis • Visualization • Predictive Analytics
-🤖 Machine Learning	Regression • Classification • Recommendation
-🧠 AI	Generative AI • Automation • AI Applications
-👁️ Computer Vision	Object Detection • Action Recognition
-💬 NLP	Sentiment Analysis • Chatbots
-🤖 Agents	Search • Resume • PDF Q&A • Email • Support
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amarchand-tigaya-pushkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarchand-tigaya-pushkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
-📊 PROJECT STATUS
-#	Project	Status
-01	Car Price Prediction	✅ Available
-02	Loan Approval Prediction	✅ Available
-03	Sentiment Analysis	✅ Available
-04	Weather Prediction	✅ Available
-05	Credit Card Fraud Detection	✅ Available
-06	Music Recommendation System	✅ Available
-07	Coming Soon	✅ Available
-08	Stock Price Prediction	✅ Available
-09	Human Action Recognition	✅ Available
-10	Weather-Agent	✅ Available
-11	Music Genre Classification using Machine Learning	✅ Available
-12	Webcam App using Python	✅ Available
-13	Helmet Detection System	✅ Available
-14	Currency-Converter-Agent	✅ Available
-15	News-Search-Agent	✅ Available
-16	Resume-Screening-Agent	✅ Available
-17	Customer-Support-Agent	✅ Available
-18	Customer Support Chatbot	✅ Available
-19	PDF-Question-Answering-Agent	✅ Available
-20	AI Coding Assistant Bot	✅ Available
-21	FAQ-Chatbot	✅ Available
-22	Email-Summarization-Agent	✅ Available
-23	Coming Soon	🚧 Coming Soon
-24	Coming Soon	🚧 Coming Soon
-25	Coming Soon	🚧 Coming Soon
-26	Coming Soon	🚧 Coming Soon
-27	Coming Soon	🚧 Coming Soon
-28	Coming Soon	🚧 Coming Soon
-29	Coming Soon	🚧 Coming Soon
-30	Coming Soon	🚧 Coming Soon
+---
 
+# 🔥 CONTRIBUTION STREAK
 
-🧩 WHAT I BUILD
-                    ┌──────────────────────┐
-                    │     DATA SCIENCE     │
-                    └──────────┬───────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-   📊 DATA ANALYSIS     🤖 MACHINE LEARNING     🧠 AI
-          │                    │                    │
-          │              ┌─────┼─────┐              │
-          │              │     │     │              │
-          ▼              ▼     ▼     ▼              ▼
-      Insights       Regression Classification     NLP
-                                      │              │
-                                      ▼              ▼
-                                Predictions       Chatbots
-                                      │
-                                      ▼
-                                🚀 Deployment
-📈 GITHUB ANALYTICS
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amarchand-tigaya-pushkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarchand-tigaya-pushkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://streak-stats.demolab.com?user=amarchand-tigaya-pushkar&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
-🔥 CONTRIBUTION STREAK
+---
+
+# 🏆 GITHUB TROPHIES
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amarchand-tigaya-pushkar&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amarchand-tigaya-pushkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
-🏆 GITHUB TROPHIES
+---
+
+# 📈 GITHUB ACTIVITY
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amarchand-tigaya-pushkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amarchand-tigaya-pushkar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
-📈 GITHUB ACTIVITY
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amarchand-tigaya-pushkar&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://raw.githubusercontent.com/amarchand-tigaya-pushkar/amarchand-tigaya-pushkar/output/github-contribution-grid-snake.svg" />
 
 </div>
 
-🐍 CONTRIBUTION SNAKE
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/amarchand-tigaya-pushkar/amarchand-tigaya-pushkar/output/github-contribution-grid-snake.svg"/>
+# 💻 DEVELOPER TERMINAL
 
-</div>
-
-💻 DEVELOPER TERMINAL
+```bash
 ┌──(amar㉿datascience)-[~/AI]
 └─$ python journey.py
 
@@ -509,7 +668,12 @@ Focus: NLP • AI • Chatbot • Automation
 ████████████████████████████████████████ 100%
 
 STATUS: READY TO BUILD 🚀
-🗺️ CURRENT LEARNING ROADMAP
+```
+
+---
+
+# 📚 CURRENT LEARNING ROADMAP
+
 ```mermaid
 timeline
     title Amar's AI & Data Science Roadmap
@@ -527,58 +691,88 @@ timeline
            : Cloud Deployment
            : Production AI Systems
 ```
-🎯 2026 GOALS
-Goal	Status
-🐍 Python	🟢 Learning & Building
-📊 Data Science	🟢 Active
-🤖 Machine Learning	🟢 Active
-👁️ Computer Vision	🟢 Active
-💬 NLP	🟢 Active
-🧠 Generative AI	🟡 Exploring
-🚀 MLOps	🟡 Learning
-☁️ Cloud Deployment	🟡 Future Goal
 
+---
 
-⚡ MY DEVELOPMENT CYCLE
-       💡 IDEA
+# 🎯 2026 GOALS
+
+| Goal | Status |
+|---|---|
+| 🐍 Python | 🟢 Learning & Building |
+| 📊 Data Science | 🟢 Active |
+| 🤖 Machine Learning | 🟢 Active |
+| 👁️ Computer Vision | 🟢 Active |
+| 💬 NLP | 🟢 Active |
+| 🧠 Generative AI | 🟡 Exploring |
+| 🚀 MLOps | 🟡 Learning |
+| ☁️ Cloud Deployment | 🟡 Future Goal |
+
+---
+
+# ⚡ MY DEVELOPMENT CYCLE
+
+```text
+        💡 IDEA
           │
           ▼
-       📚 LEARN
+        📚 LEARN
           │
           ▼
        🧪 EXPERIMENT
           │
           ▼
-       💻 BUILD
+        💻 BUILD
           │
           ▼
        📊 ANALYZE
           │
           ▼
-       🚀 DEPLOY
+        🚀 DEPLOY
           │
           ▼
        🔄 IMPROVE
           │
           └──────────────► 💡 NEXT IDEA
-🌐 CONNECT WITH ME
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
 <div align="center">
 
 <a href="https://github.com/amarchand-tigaya-pushkar">
-<img src="https://img.shields.io/badge/GitHub-AMARCHAND--TIGAYA--PUSHKAR-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/amarchand-tigaya-pushkar">
-<img src="https://img.shields.io/badge/LinkedIn-AMAR%20CHAND%20TIGAYA%20PUSHKAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br><br>
 
+### 🤝 Let's build useful AI systems together.
 
+</div>
 
-LEARN 📚 → BUILD 💻 → ANALYZE 📊 → DEPLOY 🚀 → IMPROVE 🔥
+---
 
-⭐ Thanks for visiting my GitHub profile!
+# 🧠 CURRENT MINDSET
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<div align="center">
+
+### **LEARN 📚 → BUILD 💻 → ANALYZE 📊 → DEPLOY 🚀 → IMPROVE 🔥**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my GitHub profile!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111827,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
