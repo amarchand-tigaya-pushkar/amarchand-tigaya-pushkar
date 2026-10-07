@@ -583,7 +583,7 @@ https://github.com/amarchand-tigaya-pushkar/Project-22-Email-Summarization-Agent
 | 19 | PDF-Question-Answering-Agent |✅ Available |
 | 20 | AI Coding Assistant Bot |✅ Available  |
 | 21 | FAQ-Chatbot | ✅ Available |
-| 22 | Coming Soon | 🚧 Coming Soon |
+| 22 | Email-Summarization-Agent | ✅ Available |
 | 23 | Coming Soon | 🚧 Coming Soon |
 | 24 | Coming Soon | 🚧 Coming Soon |
 | 25 | Coming Soon | 🚧 Coming Soon |
